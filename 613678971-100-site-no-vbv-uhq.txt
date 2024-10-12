@@ -1,0 +1,633 @@
+@usercard on télégram
+
+-----------------------------------------------------------------------
+Uber Eats
+-----------------------------------------------------------------------
+
+Pour graille
+
+Difficulté : Facile
+Sécurité : Aucune
+Remarque : Aucune
+-----------------------------------------------------------------------
+Skoali - Skoali.fr
+-----------------------------------------------------------------------
+
+VPS, Nom de domaine, hébergeur, serveur,...
+
+Difficulté : Facile
+Sécurité : Paypal, Paysafecard
+Remarque : Aucune
+-----------------------------------------------------------------------
+Delaveine - delaveine.com
+----------------------------------------------------------------------
+
+Vêtement
+
+Difficulté : Facile
+Sécurité : Aucune
+Remarque : Fia-Net mais pas de soucis pour des commandes de 100€.
+
+----------------------------------------------------------------------
+Fitadium - fitadium.com
+----------------------------------------------------------------------
+
+Pour être TiboInshape
+
+Difficulté : Facile
+Sécurité : Aucune
+Remarque : Aucune
+
+----------------------------------------------------------------------
+IKKS - ikks.com/fr
+----------------------------------------------------------------------
+
+Vêtement
+
+Difficulté : Facile
+Sécurité : Vérif Fia-Net (Justif DOM + CNI) mais très rare ...
+Remarque : Livraison en point relais.
+----------------------------------------------------------------------
+TORGUARDS - torguard.net
+----------------------------------------------------------------------
+
+VPN, Proxy, Email,...
+
+Difficulté : Facile
+Sécurité : Aucune
+Remarque : Paiement par carte bancaire ... tout simple.
+----------------------------------------------------------------------
+RUEDUCOMMERCE / TaupeAchat- rueducommerce.fr / TaupeAchat.com
+----------------------------------------------------------------------
+
+Difficulté : Moyenne
+Sécurité : En dessous de 200€ vous n'aurez pas de problème, au dessus c'est scan
+CNI + scan CC + justificatif domicile.
+Remarque : Pour de petit montant sa passera, mais pour du matériel sensible type PC
+portable ou iPhone laisser tomber et allez ailleurs. Leur service fraude est trop
+tatillon.
+
+----------------------------------------------------------------------
+FNAC - fnac.fr
+----------------------------------------------------------------------
+
+Difficulté : Moyen
+Sécurité : Aucune lors d'une paiement mais si on vous demande une cni il suffit de
+mettre toutes les infos de la cni. Prenez une CNI doublette ... et voila.
+Remarque : Peuvent vous demander un scan CNI + justif de domicile + scan CC de plus
+en plus souvent. Peut livrer en BAL sans signature (iPhone). Si 3D Secure, passer
+par une AMEX.
+
+----------------------------------------------------------------------
+AMAZON - amazon.fr
+----------------------------------------------------------------------
+
+Difficulté : Moyenne
+Sécurité : Pour de petite commande, pas de sécurité. Par contre à partir de plus ou
+moins 200€ vous devrez envoyer un relevé de cc et un relevé de compte mentionnant
+votre drop.
+Remarque : Attention au double compte (IP/cookies/sock), commander un petite
+article avant de card un gros montant et si votre compte est débloqué après une
+demande de papiers, faîtes péter les gros montants. Ils peuvent être casse couille,
+cela dépends de la période.
+----------------------------------------------------------------------
+UNIBET - unibet.fr
+----------------------------------------------------------------------
+
+Paris Sportif
+
+Difficulté : Moyenne
+Sécurité : Scan CNI + RIB FR + drop nécessaire (envoi d'un courrier) pour activer
+son compte.
+Remarque : Ici c'est très simple, comme tout site d'ARJEL on vous demandera
+quelques papiers et ensuite on cashout. Jouer quelques paris facile histoire d'être
+crédible.
+
+----------------------------------------------------------------------
+PMU - pmu.fr
+----------------------------------------------------------------------
+
+Paris Sportif
+
+Difficulté : Moyenne
+Sécurité : Scan CNI + RIB FR + drop nécessaire (envoi d'un courrier) pour activer
+son compte.
+Remarque : Ici c'est très simple, comme tout site d'ARJEL on vous demandera
+quelques papiers et ensuite on cashout. Jouer quelques paris facile histoire d'être
+crédible.
+----------------------------------------------------------------------
+BETCLIC - betclic.fr
+----------------------------------------------------------------------
+
+Paris Sportif
+
+Difficulté : Moyenne
+Sécurité : Scan CNI + RIB FR + drop nécessaire (envoi d'un courrier) pour activer
+son compte. Scan CC demander uniquement si vous payez avec plusieurs cartes.
+Remarque : Ici c'est très simple, comme tout site d'ARJEL on vous demandera
+quelques papiers et ensuite on cashout. Jouer quelques paris facile histoire d'être
+crédible.
+
+----------------------------------------------------------------------
+ASOS - asos.fr
+----------------------------------------------------------------------
+
+Vêtement
+
+Difficulté : Moyenne
+Sécurité : Aléatoire
+Remarque : Rien à dire, on commande on reçois, sa passe ou sa casse. Privilégier
+les petite commande de 100€ et après faîtes une grosse commande sinon c'est
+vérification probable.
+----------------------------------------------------------------------
+MMOSale-FR - mmosale-fr.com
+----------------------------------------------------------------------
+
+Monnaie Virtuelle
+
+Difficulté : Facile
+Sécurité : Paiement par carte bancaire via PayPal donc il faut simplement une CC
+non-lié à un PayPal existant. Et un appel téléphonique pour vérifier votre numéro
+de tel.
+Remarque : Simplement, ici on va chercher à bypass PayPal (tuto de Mewbie
+excellent) et payer directement par carte via PayPal Express. Ensuite on se fais
+appeler et voila.
+
+----------------------------------------------------------------------
+Battle.NET - battle.net
+----------------------------------------------------------------------
+
+Jeux vidéos
+
+Difficulté : Facile
+Sécurité : Aucune
+Remarque : Attention toutefois, en cas d'opposition ils peuvent vous demander de
+re-payer le jeu et vous bloquer votre compte en attendant. Préférez achetez sur la
+boutique Blizzard directement.
+
+----------------------------------------------------------------------
+Gumroad - gumroad.com
+----------------------------------------------------------------------
+
+Un peu de tout un genre ebay
+
+Difficulté : Moyenne
+Sécurité : Ils vérifient dès que vous avez plus de 2/3 paiements en une semaine et
+peuvent vous suspendre à tout moment.
+Remarque : Paiement tout les 15 jours par PayPal. Une transaction par semaine pour
+un produit à 79€ bien présenté passera et vous fera de l'argent de poche. On
+s'achète soit même notre produit.
+
+-----------------------------------------------------------------------
+Banggood - banggood.com
+-----------------------------------------------------------------------
+
+Boutique objet électronique
+
+Difficulté : Moyen
+Sécurité : Une bonne cc fresh et sa suffit
+Remarque : Pour les téléphones et accesoires de contrefaçons mais qui restent
+vraiment correct.
+-------------------------------------------------------------------------
+Apple - store.apple.fr
+-------------------------------------------------------------------------
+Difficulté : Difficile
+Sécurité : Appel sur le téléphone.
+Remarque : Avoir une bonne cc fresh qui durera 1 jour minimum et pas une ip cramer
++ adresse de facturation pareil que la cc.
+
+-------------------------------------------------------------------------
+Nike - nike.fr
+-------------------------------------------------------------------------
+Difficulté : Moyen
+Sécurité : Aucune sécurité. Mais detecte les cas de fraudes rapidement
+Remarque : Pareil que apple juste au dessus.
+
+-------------------------------------------------------------------------
+Usine23 - usine23.com
+-------------------------------------------------------------------------
+
+Vêtement
+
+Difficulté : Facile
+Sécurité : Appel téléphonique donc prévoir une sim anon.
+Remarque : Le logo 3-D secure apparait mais n'est là que pour figuration, Usine23
+demande absolument à c'qu'ils t'aient au téléphone (n'importe quel num) et il faut
+préciser tes numéros de téléphones.
+
+-------------------------------------------------------------------------
+La redoute - laredoute.com
+-------------------------------------------------------------------------
+Difficulté : Facile
+Sécurité : Aucune sécurité.
+Remarque : Aucune demande pour moins de 150e
+-------------------------------------------------------------------------
+Surfstitch - surfstitch.com/eu/fr/
+-------------------------------------------------------------------------
+
+Vêtement
+
+Difficulté : Moyen
+Sécurité : Demande de docs, surtout sur les Go Pro
+Remarque : Demande de doc notamment copie de la cc et pc ou passeport
+
+-------------------------------------------------------------------------
+Champignonsmagiques - champignonsmagiques.fr
+-------------------------------------------------------------------------
+
+Utile pour savoir si une carte est fresh ou dead
+
+Difficulté : Facile
+Sécurité : No vbv No scan
+Remarque : Livraison en BAL ! Vous pouvez payer par Mastercard (-100€) ou Visa
+(~150€).
+
+-------------------------------------------------------------------------
+Awok - awok.com
+-------------------------------------------------------------------------
+
+Boutique objets électronique
+
+Difficulté : Facile
+Sécurité : No vbv No scan No fia-net
+Remarque : Livraison aux Emirats uniquement.
+
+-------------------------------------------------------------------------
+CDuniverse - cduniverse.com
+-------------------------------------------------------------------------
+
+jeux, cd de merdes,...
+
+Difficulté : Facile
+Sécurité : Pas de remarque
+Remarque : Pas de remarque
+-------------------------------------------------------------------------
+Ubaldi - ubaldi.com
+-------------------------------------------------------------------------
+
+Boutique objets électronique
+
+Difficulté : Moyen
+Sécurité : Fia-Net
+Remarque : High-tech électoménager.
+
+-------------------------------------------------------------------------
+Laguiole Arbalète - laguiole-arbalete.com
+-------------------------------------------------------------------------
+
+Couteaux, arbalete,...
+
+Difficulté : Facile
+Sécurité : Paypal
+Remarque : Vends couteaux de prestige.
+
+-----------------------------------------------------------------------
+Planet Sports - planet-sports.com
+-----------------------------------------------------------------------
+
+Vêtement
+
+Difficulté : Facile.
+Sécurité : Pas de sécurités.
+Remarque : Site dédié au sport, vendent des Go Pro.
+-----------------------------------------------------------------------
+Afenêtre - afenetre.fr
+-----------------------------------------------------------------------
+
+Fenetre pour les guignols qui rage et qui casse tout
+
+Difficulté : Facile.
+Sécurité : Pas de sécu.
+Remarque : Si vous avez besoin de nouvelles fenêtres. Juste bien prévoir le drop vu
+la taille du colis.
+
+-----------------------------------------------------------------------
+Bonbons Gourmands - bonbonsgourmands.fr
+-----------------------------------------------------------------------
+
+Utile pour voir si une carte est fresh ou dead
+
+Difficulté : Facile.
+Sécurité : Pas de sécu.
+Remarque : Le site n°1 des gourmands wink
+-----------------------------------------------------------------------
+Doudou Planet - doudouplanet.com
+-----------------------------------------------------------------------
+
+Pour les mamans qui ont un bébé qui adore Tchoupi
+
+Difficulté : Facile.
+Sécurité : Pas de sécu.
+Remarque : VBV et 3DS d'affichés mais testé par le 30/07.
+
+-----------------------------------------------------------------------
+La Cave des Tuileries - la-cave-des-tuileries.fr
+-----------------------------------------------------------------------
+
+Alcool
+
+Difficulté : Facile.
+Sécurité : Pas de sécu.
+Remarque : Vins et Champagnes.
+
+-----------------------------------------------------------------------
+Zone-aquatique - zone-aquatique.com
+-----------------------------------------------------------------------
+
+Difficulté : Facile.
+Sécurité : Pas de sécu.
+Remarque : Accessoires de piscine.
+
+-----------------------------------------------------------------------
+Savannah - savannah.fr
+-----------------------------------------------------------------------
+
+Difficulté : Facile.
+Sécurité : Fia-Net
+Remarque : Matériels pour reptiles.
+
+-----------------------------------------------------------------------
+Coggles - coggles.com
+-----------------------------------------------------------------------
+Difficulté : Facile.
+Sécurité : Aucune pour environ 100€.
+Remarque : Site d'achat de vêtements.
+-----------------------------------------------------------------------
+SushiShop - sushishop.fr
+-----------------------------------------------------------------------
+
+Difficulté : Facile
+Sécurité : Aucune pour - de 100€. Au dessus c'est VBV.
+Remarque : Livraison à domicile mais ce n'est pas conseillé wink
+-----------------------------------------------------------------------
+Nom : detente-airsoft.com
+-----------------------------------------------------------------------
+
+Pour : Loisirs
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://osu.ppy.sh/store/listing
+-----------------------------------------------------------------------
+
+Pour : Jeux nommée osu! avec une boutique
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://account.sonyentertainmentnetwork.com/
+-----------------------------------------------------------------------
+
+Pour : jeux vidéos
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://accounts.unrealengine.com/login/index
+-----------------------------------------------------------------------
+
+Pour : jeux vidéos
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : http://www.technicpack.net/login
+-----------------------------------------------------------------------
+
+Pour : Pack minecraft,...
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : http://hackandmodz.net/register/register
+-----------------------------------------------------------------------
+Pour : hacking
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://ely.by/
+-----------------------------------------------------------------------
+
+Pour : Minecraft
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://www.xsplit.com/fr/
+-----------------------------------------------------------------------
+
+Pour : Plateforme pour stream utile pour les streameurs
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://leakforums.net/member.php
+-----------------------------------------------------------------------
+
+Pour : Leak de données
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://commerce.trionworlds.com/
+-----------------------------------------------------------------------
+
+Pour : jeux vidéos et monnaie virtuelle
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : http://opogame.com/
+-----------------------------------------------------------------------
+
+Pour : jeux vidéos
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://bitdefender.net/
+-----------------------------------------------------------------------
+
+Pour : sécurisation vpn,...
+
+Difficulté : Facile
+Sécurité : pas de sécurité
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://msi.com/
+-----------------------------------------------------------------------
+
+Pour : PC gamers
+
+Difficulté : Facile
+Sécurité : non connu
+Remarque : non connu
+-----------------------------------------------------------------------
+Nom : https://www.canva.com/login
+-----------------------------------------------------------------------
+
+Pour : Design, diaporama, logo,...
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : non connu
+-----------------------------------------------------------------------
+Nom : https://itch.io/
+-----------------------------------------------------------------------
+
+Pour : jeux de merde
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : non connu
+-----------------------------------------------------------------------
+Nom : https://www.wemod.com/
+-----------------------------------------------------------------------
+
+Pour : Jeux vidéos
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://mojang.com/
+-----------------------------------------------------------------------
+
+Pour : Compte minecraft prenium
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : non connu
+-----------------------------------------------------------------------
+Nom : https://activetrail.fr/
+-----------------------------------------------------------------------
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : non connu
+-----------------------------------------------------------------------
+Nom : https://flixel.com/
+-----------------------------------------------------------------------
+
+Pour : montage video
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://www.logitechgpromo.com/
+-----------------------------------------------------------------------
+
+Pour : produit logitech
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://www.qnx.com/
+-----------------------------------------------------------------------
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : domainpeople.com
+-----------------------------------------------------------------------
+
+Nom de domaine de site
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : Très facile et sans vérification
+-----------------------------------------------------------------------
+Nom : buydomains.com/
+-----------------------------------------------------------------------
+
+Nom de domaine de site
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : Très facile et sans vérification
+-----------------------------------------------------------------------
+Nom : http://www.buymobilephones.net/
+-----------------------------------------------------------------------
+
+Forfait téléphonique et téléphone
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : https://www.tierra.net/
+-----------------------------------------------------------------------
+
+Nom de domaine de site
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : rakuten.com
+-----------------------------------------------------------------------
+Boutique comme Amazon
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+-----------------------------------------------------------------------
+Nom : http://digitaletc.com/
+-----------------------------------------------------------------------
+
+Boutique high-tech
+
+Difficulté : Facile
+Sécurité : Pas de sécu.
+Remarque : pas de remarque
+==============================
+        ★★ VETEMENT ★★
+==============================
+https://www.caelumgreene.com/
+https://www.mltd.com/
+https://www.dstld.com/
+
+==============================
+        ★★ ELECTRONIQUE ★★
+==============================
+https://store.madehost.com/
+https://www.geekbuying.com/
+https://www.jumbo.ae/
+https://viotek.com/
+https://gpx.com/
+https://www.verizon.com/
+https://www.techbuy.com.au/
+
+==============================
+    ★★ GIFT-CARD AND JEUX ★★
+==============================
+https://www.offgamers.com/
+http://www.gamecards.com/
+https://www.instant-gaming.com/
+https://www.fanatical.com/
+https://www.gog.com/
+https://www.gamersgate.com/
+https://fr.gamesplanet.com/
+https://www.blizzard.com/fr-fr/
+
+==============================
+        ★★ BIJOUX ★★
+==============================
+https://www.charmco.com/
+https://www.apmex.com/
+
